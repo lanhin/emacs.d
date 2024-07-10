@@ -1,0 +1,3 @@
+[submodule "site-lisp/elpa-mirror"]
+	path = site-lisp/elpa-mirror
+	url = https://github.com/redguardtoo/elpa-mirror.git
